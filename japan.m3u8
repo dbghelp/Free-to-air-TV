@@ -1,0 +1,4 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dbghelp/JCOM-TV-EPG/refs/heads/main/jcom.xml" refresh="3600"
+
+#EXTINF:-1  tvg-id="jcom_2_1072_32742" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE6-071-400x400.png", TV Tokyo (テレ東)
+https://tv2.jptv.live/hls/main.m3u8
