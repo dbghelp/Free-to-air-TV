@@ -40,18 +40,6 @@ https://mwmpos04.akamaized.net/out/v1/c9b06266ed5e49039d2d15c98df2fdcd/manifest.
 #KODIPROP:inputstream.adaptive.license_key=96df665497774a5a810480411a926804:f91ef8312f105aa94fc7bcc1ce774687
 https://mwmpos02.akamaized.net/out/v1/a82dde0e87844b98b1b65d7919b3fc50/manifest.mpd
 
-#EXTINF:-1  tvg-id="158965" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='7510630'&EntityType='Item'&EntityId='158965'&Width=193&Height=187", NOW 80s
-https://tglmp02.akamaized.net/out/v1/4148d890e367435480ca18465a014dd8/manifest.mpd
-
-#EXTINF:-1  tvg-id="158964" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='7510620'&EntityType='Item'&EntityId='158964'&Width=193&Height=187", NOW 70s
-https://tglmp03.akamaized.net/out/v1/b0ddd3ed82164617a9640ec76f3628c2/manifest.mpd
-
-#EXTINF:-1  tvg-id="158963" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='7510610'&EntityType='Item'&EntityId='158963'&Width=193&Height=187", NOW Rock
-https://tglmp04.akamaized.net/out/v1/61b00aa312c84a0b988dc000d37926db/manifest.mpd
-
-#EXTINF:-1  tvg-id="158962" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='7510600'&EntityType='Item'&EntityId='158962'&Width=184&Height=133", TRACE Urban
-https://tglmp02.akamaized.net/out/v1/74c32a4ccb43407d8651fa61c365e4be/manifest.mpd
-
 #EXTINF:-1  tvg-id="97073" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6318742'&EntityType='Item'&EntityId='97073'&Width=488&Height=249", LIVE 1
 https://tglmp04.akamaized.net/out/v1/b38b8a6306714a8e91ae7674291a4a94/manifest.mpd
 
@@ -69,4 +57,38 @@ https://mwmpos04.akamaized.net/out/v1/2f28990633c444cc82c57f05da637fc1/manifest.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c61d6aacd14b46d0832c76081ab2877b:7d77094f1e7d835083134e60eed9dcdd
 https://mwmpos02.akamaized.net/out/v1/94904b87bd2b434c8859ef6c13405466/manifest.mpd
+
+#EXTINF:-1  tvg-id="557763" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='9268198'&EntityType='Item'&EntityId='557763'&Width=264&Height=250", FIFA+
+https://tglmp03.akamaized.net/out/v1/87d046be806149d29fafbca93f50858d/manifest.mpd
+
+#EXTINF:-1  tvg-id="558112" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='9268172'&EntityType='Item'&EntityId='558112'&Width=409&Height=250", W-Sport
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e8888ac964d430cbfef9c922ee6714b:9b1dbd9f59a39a9ebaf1fb8e665a3ef3
+https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.mpd
+
+#EXTINF:-1  tvg-id="556888" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='9268162'&EntityType='Item'&EntityId='556888'&Width=350&Height=250", TRACE Sport Stars
+https://d29ecfnk3jwkp9.cloudfront.net/out/v1/ade3187e42db432eb46a7039498f0dd0/manifest.mpd
+
+#EXTINF:-1  tvg-id="556893" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='9268168'&EntityType='Item'&EntityId='556893'&Width=350&Height=250", Kartoon Channel!
+https://d29ecfnk3jwkp9.cloudfront.net/out/v1/90ea1fea036445f7af28cd167453a1c6/manifest.mpd
+
+#EXTINF:-1  tvg-id="556877" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='9272353'&EntityType='Item'&EntityId='556877'&Width=264&Height=250", TG Junior
+https://tglmp03.akamaized.net/out/v1/0589826b075f4e0cbc7c9a5743ebc9df/manifest.mpd
+
+#EXTINF:-1  tvg-id="556894" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='9268156'&EntityType='Item'&EntityId='556894'&Width=304&Height=250", Action Hollywood Movies
+https://d29ecfnk3jwkp9.cloudfront.net/out/v1/9d160573fb7944608da8ebd020de4474/manifest.mpd
+
+#EXTINF:-1  tvg-id="158965" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='7510630'&EntityType='Item'&EntityId='158965'&Width=193&Height=187", NOW 80s
+https://tglmp02.akamaized.net/out/v1/4148d890e367435480ca18465a014dd8/manifest.mpd
+
+#EXTINF:-1  tvg-id="158964" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='7510620'&EntityType='Item'&EntityId='158964'&Width=193&Height=187", NOW 70s
+https://tglmp03.akamaized.net/out/v1/b0ddd3ed82164617a9640ec76f3628c2/manifest.mpd
+
+#EXTINF:-1  tvg-id="158963" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='7510610'&EntityType='Item'&EntityId='158963'&Width=193&Height=187", NOW Rock
+https://tglmp04.akamaized.net/out/v1/61b00aa312c84a0b988dc000d37926db/manifest.mpd
+
+#EXTINF:-1  tvg-id="158962" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='7510600'&EntityType='Item'&EntityId='158962'&Width=184&Height=133", TRACE Urban
+https://tglmp02.akamaized.net/out/v1/74c32a4ccb43407d8651fa61c365e4be/manifest.mpd
+
+
 
