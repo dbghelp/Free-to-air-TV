@@ -4,19 +4,19 @@
 https://tv2.jptv.live/hls/main.m3u8
 
 #EXTINF:-1  tvg-id="ntv" tvg-logo="https://statics.tver.jp/images/icon/ntv.jpg", 日テレ
-https://ssai-variants.streaks.jp/v5/tver-simul-ntv/938232e586b34196b704a5839663984b/cb593b5eafbb4645907e979d757e1dd5/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-174-11920/1b86d395-b79e-40f9-865f-b3b388a81c48/0.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibGl2ZS10dmVyLXNpbXVsLW50di5zdHJlYWtzLmpwIiwib2Zmc2V0Ijo5LCJwZHQiOiItMTA2MzgifQ.rUcznRakTedVKfI-hTKGogQIqOWjsV1GznuUlTp6HUo
+https://ssai-variants.streaks.jp/v5/tver-simul-ntv/938232e586b34196b704a5839663984b/cb593b5eafbb4645907e979d757e1dd5/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-174-11920/615c4655-3102-4d5c-a899-8a680591476d/0.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibGl2ZS10dmVyLXNpbXVsLW50di5zdHJlYWtzLmpwIiwib2Zmc2V0Ijo5LCJwZHQiOiItMTA2MzgifQ.rUcznRakTedVKfI-hTKGogQIqOWjsV1GznuUlTp6HUo
 
 #EXTINF:-1  tvg-id="ex" tvg-logo="https://statics.tver.jp/images/icon/ex.jpg", テレビ朝日
-https://ssai-variants.streaks.jp/v5/tver-simul-ex/498c4512f66846f1b0a5a3320ee035c3/ce98cb0b48994b50a76dba08ea894e24/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-175-8158/1b10f5f7-ab94-4f80-bbea-5875851d838d/0.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibGl2ZS10dmVyLXNpbXVsLWV4LnN0cmVha3MuanAiLCJvZmZzZXQiOjksInBkdCI6Ii0xODMxMiJ9.3_LtWkPwA5BIqvQHGN-6LSybdasM__fxMLP1DjvQ6YM
+https://ssai-variants.streaks.jp/v5/tver-simul-ex/498c4512f66846f1b0a5a3320ee035c3/ce98cb0b48994b50a76dba08ea894e24/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-175-8158/5d60fcf0-a4f3-4008-b421-671ce1ac6acd/0.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibGl2ZS10dmVyLXNpbXVsLWV4LnN0cmVha3MuanAiLCJvZmZzZXQiOjksInBkdCI6Ii0xODMxMiJ9.3_LtWkPwA5BIqvQHGN-6LSybdasM__fxMLP1DjvQ6YM
 
 #EXTINF:-1  tvg-id="tbs" tvg-logo="https://statics.tver.jp/images/icon/tbs.jpg", TBS
-https://ssai-variants.streaks.jp/v5/tver-simul-tbs/8e4c80725b9842cdb0f6f91260945222/b72f7e116957436b824f95d5138ea7a3/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-176-7925/7c6b3130-973c-447a-b3dc-6fd7bf086963/0.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibGl2ZS10dmVyLXNpbXVsLXRicy5zdHJlYWtzLmpwIiwib2Zmc2V0Ijo5LCJwZHQiOiItMTA1MjYifQ.AfmbnHUHbCP6bvDC2PhaLjV8efY4IWcwSrqCTMKh0tU
+https://ssai-variants.streaks.jp/v5/tver-simul-tbs/8e4c80725b9842cdb0f6f91260945222/b72f7e116957436b824f95d5138ea7a3/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-176-7925/07a99b93-81f7-4330-bc53-79c467575be7/0.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibGl2ZS10dmVyLXNpbXVsLXRicy5zdHJlYWtzLmpwIiwib2Zmc2V0Ijo5LCJwZHQiOiItMTA1MjYifQ.AfmbnHUHbCP6bvDC2PhaLjV8efY4IWcwSrqCTMKh0tU
 
 #EXTINF:-1  tvg-id="tx" tvg-logo="https://statics.tver.jp/images/icon/tx.jpg", テレ東
-https://ssai-variants.streaks.jp/v5/tver-simul-tx/035622a82bcb46bc8e41ca5351f95a00/3887c96991ce4ae1bec43ea19f24c4d5/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-177-8159/65832115-89f2-458b-a930-4ab1b748fd9f/0.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibGl2ZS10dmVyLXNpbXVsLXR4LnN0cmVha3MuanAiLCJvZmZzZXQiOjksInBkdCI6Ii0xMzA5NCJ9.tIPlt2NT6mocNNSX0ThtFX3hxdXIS_X5P7H7gQY8vW4
+https://ssai-variants.streaks.jp/v5/tver-simul-tx/035622a82bcb46bc8e41ca5351f95a00/3887c96991ce4ae1bec43ea19f24c4d5/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-177-8159/e61b0360-08f3-4bcc-83a7-171e6e2dd0a5/0.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibGl2ZS10dmVyLXNpbXVsLXR4LnN0cmVha3MuanAiLCJvZmZzZXQiOjksInBkdCI6Ii0xMzA5NCJ9.tIPlt2NT6mocNNSX0ThtFX3hxdXIS_X5P7H7gQY8vW4
 
 #EXTINF:-1  tvg-id="cx" tvg-logo="https://statics.tver.jp/images/icon/cx.jpg", フジテレビ
-https://ssai-variants.streaks.jp/v5/tver-simul-cx/a78ebf1910144ba287907ec691bdc863/4817bf371f214463a3609e17a365f098/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-178-7884/ace3b88a-1d9a-4758-811a-495029ff95d8/0.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibGl2ZS10dmVyLXNpbXVsLWN4LnN0cmVha3MuanAiLCJvZmZzZXQiOjksInBkdCI6Ii02NjI3In0.VA5RYohfCZlAwpFbyARPOXyTi-3S732ri-JMIxnzOGw
+https://ssai-variants.streaks.jp/v5/tver-simul-cx/a78ebf1910144ba287907ec691bdc863/4817bf371f214463a3609e17a365f098/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-178-7884/f435ebec-7e91-4045-8189-6920b8ea00f1/0.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibGl2ZS10dmVyLXNpbXVsLWN4LnN0cmVha3MuanAiLCJvZmZzZXQiOjksInBkdCI6Ii02NjI3In0.VA5RYohfCZlAwpFbyARPOXyTi-3S732ri-JMIxnzOGw
 
 #EXTINF:-1  tvg-id="gmt+9" tvg-logo="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lexcqiug5m.jpg", TBS NEWS DIG Powered by JNN
 https://variants.streaks.jp/v5/tver-splive/b4f588f1d2144308ac356b0fc0007de6/4b9f219963c04339b18dc50db9b5c4d2/manifest_2.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibGl2ZS10dmVyLXNwbGl2ZS5zdHJlYWtzLmpwIn0.jtEWoPdQa08-jn8Q9ia0BaJF9eI-rwl7n8ZYSf_HooM
