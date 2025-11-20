@@ -58,6 +58,9 @@ https://mwmpos04.akamaized.net/out/v1/2f28990633c444cc82c57f05da637fc1/manifest.
 #KODIPROP:inputstream.adaptive.license_key=c61d6aacd14b46d0832c76081ab2877b:7d77094f1e7d835083134e60eed9dcdd
 https://mwmpos02.akamaized.net/out/v1/94904b87bd2b434c8859ef6c13405466/manifest.mpd
 
+#EXTINF:-1  tvg-id="558278" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10089891'&EntityType='Item'&EntityId='558278'&Width=62&Height=59", MasterChef
+https://tglmp03.akamaized.net/out/v1/204d9435c7b148d8bdbcf3b0a3e7b7a8/manifest.mpd
+
 #EXTINF:-1  tvg-id="558258" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10089337'&EntityType='Item'&EntityId='558258'&Width=150&Height=59", Fear Factor
 https://tglmp04.akamaized.net/out/v1/46884a2a10784e839660629b3a68d253/manifest.mpd
 
@@ -101,6 +104,7 @@ https://tglmp04.akamaized.net/out/v1/61b00aa312c84a0b988dc000d37926db/manifest.m
 
 #EXTINF:-1  tvg-id="158962" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='7510600'&EntityType='Item'&EntityId='158962'&Width=184&Height=133", TRACE Urban
 https://tglmp02.akamaized.net/out/v1/74c32a4ccb43407d8651fa61c365e4be/manifest.mpd
+
 
 
 
