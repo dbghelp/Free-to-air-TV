@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/dbghelp/mewatch-EPG/refs/heads/main/mewatch.xml" refresh="3600"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dbghelp/mewatch-EPG/refs/heads/main/mewatch.xml, https://raw.githubusercontent.com/dbghelp/Test-EPG/refs/heads/main/test_epg.xml" refresh="3600"
 
 #EXTINF:-1  tvg-id="97098" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6318760'&EntityType='Item'&EntityId='97098'&Width=356&Height=250", Channel 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -104,6 +104,7 @@ https://tglmp04.akamaized.net/out/v1/61b00aa312c84a0b988dc000d37926db/manifest.m
 
 #EXTINF:-1  tvg-id="158962" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='7510600'&EntityType='Item'&EntityId='158962'&Width=184&Height=133", TRACE Urban
 https://tglmp02.akamaized.net/out/v1/74c32a4ccb43407d8651fa61c365e4be/manifest.mpd
+
 
 
 
