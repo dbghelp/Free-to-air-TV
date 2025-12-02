@@ -107,18 +107,35 @@ https://tglmp03.akamaized.net/out/v1/b0ddd3ed82164617a9640ec76f3628c2/manifest.m
 #EXTINF:-1  tvg-id="158963" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='7510610'&EntityType='Item'&EntityId='158963'&Width=193&Height=187", NOW Rock
 https://tglmp04.akamaized.net/out/v1/61b00aa312c84a0b988dc000d37926db/manifest.mpd
 
-#EXTINF:-1  tvg-id="158962" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='7510600'&EntityType='Item'&EntityId='158962'&Width=184&Height=133", TRACE Urban
-https://tglmp02.akamaized.net/out/v1/74c32a4ccb43407d8651fa61c365e4be/manifest.mpd
+#EXTINF:-1  tvg-id="576059" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298961'&EntityType='Item'&EntityId='576059'&Width=289&Height=250", SEA Games CH01
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5320002ff03f4ea6ae65d34c73dadffc:ceded974d6e129a623b25fe296e80f03
+https://mwmpos03.akamaized.net/out/v1/0484a3feb7684efb9fc80ec56d66d005/manifest.mpd
 
+#EXTINF:-1  tvg-id="576060" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298974'&EntityType='Item'&EntityId='576060'&Width=289&Height=250", SEA Games CH02
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=287bc9045e7f4e42aeaa2177a29a58c3:972981b7e4526846dcaf77e9a90675b5
+https://mwmpos01.akamaized.net/out/v1/c9f101b58cec446096bcedbe379bbf2e/manifest.mpd
 
+#EXTINF:-1  tvg-id="576061" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298979'&EntityType='Item'&EntityId='576061'&Width=289&Height=250", SEA Games CH03
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=142a3c07ea6742bf99f7ae5eaa8db32f:d1ec541224d76fb8d8938f9d1d58d209
+https://mwmpos02.akamaized.net/out/v1/1b659d51081c4149bd679abbe0ef02b0/manifest.mpd
 
+#EXTINF:-1  tvg-id="580750" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298988'&EntityType='Item'&EntityId='580750'&Width=289&Height=250", SEA Games CH04
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3158bf2812ef4b34beee4c2e13219191:1b0263ae474cf8250b0d9f0bfaa31670
+https://mwmpos04.akamaized.net/out/v1/eda167bbca3d4037a9951ecad56393c8/manifest.mpd
 
+#EXTINF:-1  tvg-id="580751" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298994'&EntityType='Item'&EntityId='580751'&Width=289&Height=250", SEA Games CH05
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c2dc792d1b97441a92a4be4e9a655e18:2ba047bfd23d36bb823990fb69a98cca
+https://mwmpos03.akamaized.net/out/v1/c2dd987e84784d478cb0e9eb797fda5d/manifest.mpd
 
-
-
-
-
-
+#EXTINF:-1  tvg-id="580752" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10299762'&EntityType='Item'&EntityId='580752'&Width=289&Height=250", SEA Games CH06
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ba597f828db477e9f18d9ab7a4d6ca8:26eb8934f968f5dfc15b91797344411a
+https://mwmpos01.akamaized.net/out/v1/c5980cddad3f4321b9032f2442f2552b/manifest.mpd
 
 
 
