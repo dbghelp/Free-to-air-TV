@@ -30,9 +30,6 @@ https://tglmp01.akamaized.net/out/v1/8605c1013e3148aa809c296dd76c3fa5/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=bef2c7c91c7841d3bce5338fe469d302:f2bf28552449a758c950e84bddc6f150
 https://tglmp03.akamaized.net/out/v1/f97b5eedb5ec4b4ea770859bd4e9d28e/manifest.mpd
 
-#EXTINF:-1  tvg-id="186574" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='9467885'&EntityType='Item'&EntityId='186574'&Width=945&Height=250", Oktolidays
-https://tglmp03.akamaized.net/out/v1/31ff97e546d446bf89ff47d323196e96/manifest.mpd
-
 #EXTINF:-1  tvg-id="98200" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6318285'&EntityType='Item'&EntityId='98200'&Width=150&Height=58", SPL CH01
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eeb5f5394eac43eaab9217fca35f4441:00f1f031a60d8d587aaf360a1d2205a7
@@ -119,6 +116,7 @@ https://tglmp01.akamaized.net/out/v1/c9f101b58cec446096bcedbe379bbf2e/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3c5c5b09258444808d7e17f66677ed4a:95f2bca693bca97c2b18bd726bb7b427
 https://tglmp02.akamaized.net/out/v1/1b659d51081c4149bd679abbe0ef02b0/manifest.mpd
+
 
 
 
