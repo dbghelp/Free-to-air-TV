@@ -2,8 +2,8 @@
 
 #EXTINF:-1  tvg-id="97098" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6318760'&EntityType='Item'&EntityId='97098'&Width=356&Height=250", Channel 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3265793364b2b06ff4728bcf7fdb8a1d:04d5da91921caa0b1887d4495e991b0a
-https://mwlsmpn01.akamaized.net/out/v1/mwlsmpn01/ll_fta_ch5/ll_fta_ch5_cmaf_dash01/cmafdash1s.mpd
+#KODIPROP:inputstream.adaptive.license_key=23fad97468a1338f973d192646df2d19:27fd56ffd7d70ec6aa9252e713c21190
+https://mwlsmpn01.akamaized.net/out/v1/mwlsmpn01/ll_fta_ch5/ll_fta_ch5_cmaf_dash02/cmafdash2s.mpd
 
 #EXTINF:-1  tvg-id="97104" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6318750'&EntityType='Item'&EntityId='97104'&Width=369&Height=250", Channel 8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
