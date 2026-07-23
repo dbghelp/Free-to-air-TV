@@ -58,6 +58,29 @@ https://mwmpos04.akamaized.net/out/v1/2f28990633c444cc82c57f05da637fc1/manifest.
 #KODIPROP:inputstream.adaptive.license_key=c61d6aacd14b46d0832c76081ab2877b:7d77094f1e7d835083134e60eed9dcdd
 https://mwmpos02.akamaized.net/out/v1/94904b87bd2b434c8859ef6c13405466/manifest.mpd
 
+#EXTINF:-1  tvg-id="771450" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='15416874'&EntityType='Item'&EntityId='771450'&Width=632&Height=250", LIVE+ 1 (4K)
+https://tglmp01.akamaized.net/out/v1/0d0353783cea43e68540829a2f8f70ef/manifest.mpd
+
+#EXTINF:-1  tvg-id="822075" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='15455460'&EntityType='Item'&EntityId='822075'&Width=150&Height=59", CWG CH01
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5320002ff03f4ea6ae65d34c73dadffc:ceded974d6e129a623b25fe296e80f03
+https://mwmpos03.akamaized.net/out/v1/0484a3feb7684efb9fc80ec56d66d005/manifest.mpd
+
+#EXTINF:-1  tvg-id="822074" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='15455462'&EntityType='Item'&EntityId='822074'&Width=150&Height=59", CWG CH02
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=287bc9045e7f4e42aeaa2177a29a58c3:972981b7e4526846dcaf77e9a90675b5
+https://mwmpos01.akamaized.net/out/v1/c9f101b58cec446096bcedbe379bbf2e/manifest.mpd
+
+#EXTINF:-1  tvg-id="822077" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='15455483'&EntityType='Item'&EntityId='822077'&Width=150&Height=59", CWG CH03
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3c5c5b09258444808d7e17f66677ed4a:95f2bca693bca97c2b18bd726bb7b427
+https://mwmpos02.akamaized.net/out/v1/1b659d51081c4149bd679abbe0ef02b0/manifest.mpd
+
+#EXTINF:-1  tvg-id="822076" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='15455458'&EntityType='Item'&EntityId='822076'&Width=150&Height=59", CWG CH04
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3158bf2812ef4b34beee4c2e13219191:1b0263ae474cf8250b0d9f0bfaa31670
+https://mwmpos04.akamaized.net/out/v1/eda167bbca3d4037a9951ecad56393c8/manifest.mpd
+
 #EXTINF:-1  tvg-id="558207" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='13620364'&EntityType='Item'&EntityId='558275'&Width=80&Height=80", FIFA26-Free
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=63bcb2ae029b3af3bab113950aa972dd:49ef2d7ef95fd3328f1ede9eecde6c58
