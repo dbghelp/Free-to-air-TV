@@ -2,8 +2,8 @@
 
 #EXTINF:-1  tvg-id="97098" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6318760'&EntityType='Item'&EntityId='97098'&Width=356&Height=250", Channel 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc3767ece98a4bdeb39b9ad6b7b8d2fe:769e78dc02d8f73811c97e0f9d5f12fe
-https://tglmp02.akamaized.net/out/v1/a32e566460eb41ce9295b9c45fe25825/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=9c7b6aaca62d4dc59567656b371eaa21:253951f121461cbb6b8aac526438b368
+https://mwmpos02.akamaized.net/out/v1/8e5c0396bfbc4a668fac323649dc6aa1/manifest.mpd
 
 #EXTINF:-1  tvg-id="97104" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6318750'&EntityType='Item'&EntityId='97104'&Width=369&Height=250", Channel 8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -58,43 +58,57 @@ https://mwmpos04.akamaized.net/out/v1/2f28990633c444cc82c57f05da637fc1/manifest.
 #KODIPROP:inputstream.adaptive.license_key=c61d6aacd14b46d0832c76081ab2877b:7d77094f1e7d835083134e60eed9dcdd
 https://mwmpos02.akamaized.net/out/v1/94904b87bd2b434c8859ef6c13405466/manifest.mpd
 
+#EXTINF:-1  tvg-id="497989" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='8275501'&EntityType='Item'&EntityId='497989'&Width=583&Height=250", LIVE 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f2d8d482bff4e52b77b805535e5b594:a88bd0d6a5b9f350a4d263cd524d6ac4
+https://mwmpos04.akamaized.net/out/v1/50094f781438411dbf1fb7d6a9a1477d/manifest.mpd
+
+#EXTINF:-1  tvg-id="554063" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='9530109'&EntityType='Item'&EntityId='554063'&Width=587&Height=250", LIVE 8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6658250dab6d496e80df5a28ffaa8100:7d144b673921e434609eb9354e445092
+https://mwmpos01.akamaized.net/out/v1/c404d0cfb23e4b1c89d4f6325e92a4e9/manifest.mpd
+
 #EXTINF:-1  tvg-id="771450" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='15416874'&EntityType='Item'&EntityId='771450'&Width=632&Height=250", LIVE+ 1 (4K)
 https://tglmp01.akamaized.net/out/v1/0d0353783cea43e68540829a2f8f70ef/manifest.mpd
 
-#EXTINF:-1  tvg-id="840096" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='16311396'&EntityType='Item'&EntityId='840096'&Width=150&Height=59", Asian Games CH01
+#EXTINF:-1  tvg-id="839745" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='17187817'&EntityType='Item'&EntityId='839745'&Width=1024&Height=1024", FIFA U17 WWC Ch01
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=beafbeda7af7415aa87319aa853a6d5a:d3d90130ead40d509769e3a153e31a6e
+https://mwmpos03.akamaized.net/out/v1/95ed6a9d046f40d89fcdebf5382a77e4/manifest.mpd
+
+#EXTINF:-1  tvg-id="839744" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='17187821'&EntityType='Item'&EntityId='839744'&Width=1024&Height=1024", FIFA U17 WWC Ch02
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb5bfae7a7734b6588751535ba5003e3:6a12f11fc8c0fda4031f3564bfa18b7d
+https://mwmpos02.akamaized.net/out/v1/7a4f89ece28140ae8c7fe8f9191f6520/manifest.mpd
+
+#EXTINF:-1  tvg-id="839743" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='17187825'&EntityType='Item'&EntityId='839743'&Width=1024&Height=1024", FIFA U17 WWC Ch03
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b84a1304100245bfaa52a9d75cef19b1:c63140b100a0ce0c2c95faacc83b4950
+https://mwmpos02.akamaized.net/out/v1/9001243ec72f4ab68be17874c052d7d2/manifest.mpd
+
+#EXTINF:-1  tvg-id="862712" tvg-logo="None", YOG CH01
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5320002ff03f4ea6ae65d34c73dadffc:ceded974d6e129a623b25fe296e80f03
 https://mwmpos03.akamaized.net/out/v1/0484a3feb7684efb9fc80ec56d66d005/manifest.mpd
 
-#EXTINF:-1  tvg-id="840094" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='16321694'&EntityType='Item'&EntityId='840094'&Width=150&Height=59", Asian Games CH02
+#EXTINF:-1  tvg-id="862710" tvg-logo="None", YOG CH02
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=287bc9045e7f4e42aeaa2177a29a58c3:972981b7e4526846dcaf77e9a90675b5
 https://mwmpos01.akamaized.net/out/v1/c9f101b58cec446096bcedbe379bbf2e/manifest.mpd
 
-#EXTINF:-1  tvg-id="840099" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='16322173'&EntityType='Item'&EntityId='840099'&Width=150&Height=59", Asian Games CH03
+#EXTINF:-1  tvg-id="862709" tvg-logo="None", YOG CH03
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3c5c5b09258444808d7e17f66677ed4a:95f2bca693bca97c2b18bd726bb7b427
 https://mwmpos02.akamaized.net/out/v1/1b659d51081c4149bd679abbe0ef02b0/manifest.mpd
 
-#EXTINF:-1  tvg-id="840097" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='16322252'&EntityType='Item'&EntityId='840097'&Width=150&Height=59", Asian Games CH04
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3158bf2812ef4b34beee4c2e13219191:1b0263ae474cf8250b0d9f0bfaa31670
+#EXTINF:-1  tvg-id="862713" tvg-logo="None", YOG CH04
 https://mwmpos04.akamaized.net/out/v1/eda167bbca3d4037a9951ecad56393c8/manifest.mpd
 
-#EXTINF:-1  tvg-id="840095" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='16322290'&EntityType='Item'&EntityId='840095'&Width=150&Height=59", Asian Games CH05
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c2dc792d1b97441a92a4be4e9a655e18:2ba047bfd23d36bb823990fb69a98cca
+#EXTINF:-1  tvg-id="862711" tvg-logo="None", YOG CH05
 https://mwmpos03.akamaized.net/out/v1/c2dd987e84784d478cb0e9eb797fda5d/manifest.mpd
 
-#EXTINF:-1  tvg-id="840093" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='16322300'&EntityType='Item'&EntityId='840093'&Width=150&Height=59", Asian Games CH06
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4ba597f828db477e9f18d9ab7a4d6ca8:26eb8934f968f5dfc15b91797344411a
+#EXTINF:-1  tvg-id="862714" tvg-logo="None", YOG CH06
 https://mwmpos01.akamaized.net/out/v1/c5980cddad3f4321b9032f2442f2552b/manifest.mpd
-
-#EXTINF:-1  tvg-id="840098" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='16322358'&EntityType='Item'&EntityId='840098'&Width=150&Height=59", Asian Games CH07
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fd5881a779d148e18fb48d120bfb0056:5f7e80016181020e087586c4f7942929
-https://mwmpos02.akamaized.net/out/v1/ce69826a52c84c64ade5487a1e38f82d/manifest.mpd
 
 #EXTINF:-1  tvg-id="558278" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10089891'&EntityType='Item'&EntityId='558278'&Width=62&Height=59", MasterChef
 https://tglmp03.akamaized.net/out/v1/5623928a97774b698b3404a843a827d6/manifest.mpd
